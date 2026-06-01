@@ -21,15 +21,6 @@ This mini app exposes a simple API to list orders and a React UI to display them
 - `App.tsx` fetches orders from `http://localhost:3001/api/orders` and displays loading/error states.
 - `OrdersList.tsx` renders a basic card for each order and lists garments with a human-friendly status label.
 
-## Your Tasks (High Level)
-
-You do **not** need to build a full product. Focus on:
-
-1. **Reading and understanding** the existing code and data flow (NestJS backend → REST API → React frontend).
-2. **Completing the two implementation tasks** described separately (they will refer to specific files and function signatures).
-3. **Answering the theory questions** about design, tradeoffs, and edge cases in this codebase and the broader QDC domain.
-
-The implementation tasks are intentionally small (15–30 minutes each) and independent of each other.
 
 ## Running the Project
 
